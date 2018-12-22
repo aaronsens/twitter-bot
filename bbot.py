@@ -17,3 +17,4 @@ credentials = twitter.verify_credentials()
 twitter.update_status(status=random.choice(quotes))
 
 #can be run from command line, I ran mine using chron on a raspberry pi 3
+#I liked twython the most out of all the twitter packages I tried
